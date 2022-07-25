@@ -1,0 +1,1 @@
+mpisubmit.pl -t 130 -p 130 -w 08:30 ./out
